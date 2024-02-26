@@ -19,8 +19,8 @@ This Newsletter sign-up form code component is designed to be easily integrated 
 ### Screenshot
 ![](/src/assets/preview.png)
 ### Links
-- Solution URL: [Github repository](https://github.com/Hemazyn/results-summary)
-- Live Site URL: [Netlify Link](https://results-ui.netlify.app/)
+- Solution URL: [Github repository](https://github.com/Hemazyn/Newsletter-sign-up)
+- Live Site URL: [Netlify Link](https://devemma-newsletter-sign-up.netlify.app/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
